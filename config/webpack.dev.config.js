@@ -19,7 +19,7 @@ module.exports = {
 		contentBase: path.resolve(ROOT_DIR, 'dist'),
 		// This will shows a full-screen overlay in the browser when there are compiler errors
 		host: '0.0.0.0',
-		overlay: true,
+		// overlay: true,
 		port: 3000
 	},
 	// Development Tools (Map Errors To Source File)

@@ -4,6 +4,9 @@
 	font-family: BentonSansCond-BoldItalic;
 	margin-top: 10px;
 }
+#app .bold {
+	font-family: BentonSansCond-Bold;
+}
 
 /* COLOURS */
 .blue-01 {
@@ -14,6 +17,18 @@
 }
 .green-01 {
 	background-color: var(--green01);
+	border-radius: 2px;
+	color: #FFF;
+	padding: 1px 2px;
+}
+.purple-01 {
+	background-color: var(--brite_purple01);
+	border-radius: 2px;
+	color: #FFF;
+	padding: 1px 2px;
+}
+.grey-02 {
+	background-color: var(--grey02);
 	border-radius: 2px;
 	color: #FFF;
 	padding: 1px 2px;
